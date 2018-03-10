@@ -1,3 +1,3 @@
-import path from 'path'
+import doStuff from './src/the-code'
 
-console.log('A path:', path.join(__dirname, 'cats.hat'))
+doStuff()
